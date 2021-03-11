@@ -1,2 +1,6 @@
 # Responsive-Library
-C => Cột trên mobile
+Column: .col
+Prefix class:
+    - c: mobile
+    - m: tablet
+    - l: PC
